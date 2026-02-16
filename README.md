@@ -33,8 +33,10 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > CBE birr Plus
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> Figma
+>
+> https://www.figma.com/design/DLmlb5nF0SzmfrELJ4GRjo/CBE-UI?node-id=0-1&p=f&t=U95XvNBXfiyl2Hbl-0
